@@ -1,11 +1,9 @@
 ## Zero Slop
 
-An open-source editing skill. It finds the phrasing that makes writing read as
-AI-written, rewrites it, and leaves every fact, name, number and quote as you
-wrote them. You get a score before and after.
+An open-source editing skill. It finds the slop that makes writing read as
+AI-written, rewrites it as you wrote them. You get a score before and after.
 
-Runs on your own machine. Free, MIT licensed. Works in any agent that can run
-commands, and on claude.ai.
+Runs in your own harness. Free, MIT licensed. Works in any agent or chatbot that can support skills
 
 ```
 npx skills add manavmishra/ZeroSlop --global
@@ -16,10 +14,10 @@ npx skills add manavmishra/ZeroSlop --global
 
 ### About me
 
-I build systems that catch unwanted machine output. Microsoft's first ML spam
+I build systems that fight unwanted machine created junk. I worked on Microsoft's first ML spam
 filter, the anti-phishing and URL reputation service behind
 [SmartScreen](https://en.wikipedia.org/wiki/Microsoft_SmartScreen), Google
-Analytics, and Silver Peak Systems through a $925 million exit to HPE. 60+
+Analytics, and saw Silver Peak Systems through a $925 million exit to HPE. 60+
 patents and papers, 2,490 citations, h-index 24.
 
 [More about the work](https://zero-slop.ai/about/) ·
