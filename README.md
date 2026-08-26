@@ -3,7 +3,7 @@
 An open-source editing skill. It finds the slop that makes writing read as
 AI-written, rewrites it as you wrote them. You get a score before and after.
 
-Runs in your own harness. Free, MIT licensed. Works in any agent or chatbot that can support skills
+Runs in your own harness. Free, MIT licensed. Works in any agent or chatbot that supports skills
 
 ```
 npx skills add manavmishra/ZeroSlop --global
