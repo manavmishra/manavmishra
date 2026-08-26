@@ -12,6 +12,16 @@ npx skills add manavmishra/ZeroSlop --global
 **[zero-slop.ai](https://zero-slop.ai)** ·
 [github.com/manavmishra/ZeroSlop](https://github.com/manavmishra/ZeroSlop)
 
+<!-- latest:start -->
+
+Zero Slop is at **v2.5.6**. Recent posts:
+
+- [Anatomy of the slop score](https://zero-slop.ai/blog/anatomy-of-the-slop-score/)
+- [AI writing statistics, 2026 edition](https://zero-slop.ai/blog/ai-writing-statistics/)
+- [The Slop Tax](https://zero-slop.ai/blog/the-slop-tax/)
+
+<!-- latest:end -->
+
 ### About me
 
 I build systems that fight unwanted machine created junk. I worked on Microsoft's first ML spam

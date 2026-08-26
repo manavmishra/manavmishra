@@ -1,0 +1,45 @@
+name: latest
+
+# Keeps the volatile part of the profile fresh: the shipped skill version and
+# the newest posts. Runs in this repo against public sources, so the default
+# token is enough and no secret is involved.
+
+on:
+  schedule:
+    - cron: "23 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-latest
+  cancel-in-progress: false
+
+jobs:
+  latest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: "22"
+
+      - name: Refresh the latest block
+        run: node scripts/update-latest.mjs
+
+      - name: Commit when it changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No change."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Refresh the latest block"
+          git push origin main
