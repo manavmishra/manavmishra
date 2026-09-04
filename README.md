@@ -27,11 +27,7 @@ npx skills add manavmishra/ZeroSlop --global
 
 <!-- latest:start -->
 
-Zero Slop is at **v2.8.7**. Recent posts:
-
-- [The tells readers actually name](https://zero-slop.ai/blog/tells-readers-name/)
-- [Anatomy of the slop score](https://zero-slop.ai/blog/anatomy-of-the-slop-score/)
-- [AI writing statistics, 2026 edition](https://zero-slop.ai/blog/ai-writing-statistics/)
+Zero Slop is at **v2.8.7**. 
 
 <!-- latest:end -->
 
