@@ -3,7 +3,7 @@
 I build systems that fight unwanted machine created junk. I worked on Microsoft's first ML spam
 filter, the anti-phishing and URL reputation service behind
 [SmartScreen](https://en.wikipedia.org/wiki/Microsoft_SmartScreen), Google
-Analytics, and saw Silver Peak Systems through a $925 million exit to HPE. 60+
+Analytics, HPE, Wallstreet Fintech, Startups. 40+
 patents and papers, 2,490 citations, h-index 24.
 
 [More about the work](https://zero-slop.ai/about/) ·
