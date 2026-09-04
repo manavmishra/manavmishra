@@ -1,3 +1,16 @@
+### About me
+
+I build systems that fight unwanted machine created junk. I worked on Microsoft's first ML spam
+filter, the anti-phishing and URL reputation service behind
+[SmartScreen](https://en.wikipedia.org/wiki/Microsoft_SmartScreen), Google
+Analytics, and saw Silver Peak Systems through a $925 million exit to HPE. 60+
+patents and papers, 2,490 citations, h-index 24.
+
+[More about the work](https://zero-slop.ai/about/) ·
+[Scholar](https://scholar.google.com/citations?user=gVwKHJIAAAAJ) ·
+[LinkedIn](https://www.linkedin.com/in/manavmishra/)
+
+
 ## Zero Slop
 
 An open-source editing skill that finds the slop that makes writing read as
@@ -22,14 +35,3 @@ Zero Slop is at **v2.8.7**. Recent posts:
 
 <!-- latest:end -->
 
-### About me
-
-I build systems that fight unwanted machine created junk. I worked on Microsoft's first ML spam
-filter, the anti-phishing and URL reputation service behind
-[SmartScreen](https://en.wikipedia.org/wiki/Microsoft_SmartScreen), Google
-Analytics, and saw Silver Peak Systems through a $925 million exit to HPE. 60+
-patents and papers, 2,490 citations, h-index 24.
-
-[More about the work](https://zero-slop.ai/about/) ·
-[Scholar](https://scholar.google.com/citations?user=gVwKHJIAAAAJ) ·
-[LinkedIn](https://www.linkedin.com/in/manavmishra/)
