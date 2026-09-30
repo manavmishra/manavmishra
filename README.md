@@ -17,7 +17,7 @@ I’m especially interested in agentic systems, AI infrastructure, context and h
 
 <!-- latest:start -->
 
-Zero Slop is at **v2.12.11**. Recent posts:
+Zero Slop is at **v2.12.12**. Recent posts:
 
 - [How to check an AI edit](https://zero-slop.ai/blog/how-to-check-an-ai-edit/)
 - [The tells readers actually name](https://zero-slop.ai/blog/tells-readers-name/)
